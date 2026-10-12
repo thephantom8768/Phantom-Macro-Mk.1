@@ -4,16 +4,13 @@ My first attempt on macropad!. Ofc I have to make it stand out among the 1000s o
 
 ## Features 
 
-*Daisy-chainable
-
+### Daisy-chainable
 Use pogo wires or snapping the macropads together using the pogo connectors
 
-*Customizable (macropad)
-
+### Customizable (macropad)
 Can be made in any layout as long as all the essential mcu components and the connectors part are made the same for every macropad.
 
-*Customizable (Layout)
-
+### Customizable (Layout)
 Can be connected with any macropads that uses the same internal components and pogo connectors. (So far there is only 1 macropad, gonna work on more soon)
 
 <img width="490" height="253" alt="image" src="https://github.com/user-attachments/assets/7503a6b4-e132-409b-ac80-141c93ece8e7" />
