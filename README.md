@@ -14,3 +14,9 @@ Can be made in any layout as long as all the essential mcu components and the co
 Can be connected with any 
 
 <img width="490" height="253" alt="image" src="https://github.com/user-attachments/assets/7503a6b4-e132-409b-ac80-141c93ece8e7" />
+
+
+## PCB
+<img width="305" height="359" alt="image" src="https://github.com/user-attachments/assets/c72d8fe6-036b-435e-819f-ad7b1ba7b51b" />
+<img width="319" height="323" alt="image" src="https://github.com/user-attachments/assets/94f0a9da-330e-48f6-b309-f59f8764d5d8" />
+
