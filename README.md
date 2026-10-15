@@ -20,15 +20,11 @@ Can be connected with any macropads that uses the same internal components and p
 
 
 ## PCB Layout
-|Front (1st layer)|Back (4th layer)|
-|<img width="305" height="368" alt="image" src="https://github.com/user-attachments/assets/58218af3-0132-407a-8c86-651cbd8c7e35" />|
-
-<img width="306" height="365" alt="image" src="https://github.com/user-attachments/assets/c2a5de13-0d26-4e86-8b52-fec0d2fc1394" />|
+| Front (1st layer)|Back (4th layer) |
+| <img width="305" height="368" alt="image" src="https://github.com/user-attachments/assets/58218af3-0132-407a-8c86-651cbd8c7e35" /> | <img width="306" height="365" alt="image" src="https://github.com/user-attachments/assets/c2a5de13-0d26-4e86-8b52-fec0d2fc1394" /> |
 
 
 ## PCB
-|Front (1st layer)|Back (4th layer)|
-|<img width="361" height="415" alt="image" src="https://github.com/user-attachments/assets/820930e9-a8ba-4a2a-a2a4-6b79b5605098" />|
-
-<img width="356" height="416" alt="image" src="https://github.com/user-attachments/assets/e36952c4-b6ee-4051-af5b-7c1c361f409b" />|
+| Front (1st layer) | Back (4th layer) |
+| <img width="361" height="415" alt="image" src="https://github.com/user-attachments/assets/820930e9-a8ba-4a2a-a2a4-6b79b5605098" /> | <img width="356" height="416" alt="image" src="https://github.com/user-attachments/assets/e36952c4-b6ee-4051-af5b-7c1c361f409b" /> |
 
