@@ -26,7 +26,7 @@ Can be connected with any macropads that uses the same internal components and p
 
 
 ## PCB
-| Front (1st layer) | Back (4th layer) |
+| Front | Back |
 | ----- | ----- |
-| <img width="361" height="415" alt="image" src="https://github.com/user-attachments/assets/820930e9-a8ba-4a2a-a2a4-6b79b5605098" /> | <img width="356" height="416" alt="image" src="https://github.com/user-attachments/assets/e36952c4-b6ee-4051-af5b-7c1c361f409b" /> |
+| <img width="459" height="556" alt="image" src="https://github.com/user-attachments/assets/81e3826a-b3f5-4868-a1f1-81d2d13dd24a" /> | <img width="479" height="551" alt="image" src="https://github.com/user-attachments/assets/97973c72-bd7c-47d6-ade0-03e3334ad2ff" /> |
 
