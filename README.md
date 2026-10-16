@@ -13,13 +13,6 @@ Can be made in any layout as long as all the essential mcu components and the co
 Can be connected with any macropads that uses the same internal components and pogo connectors. (So far there is only 1 macropad, gonna work on more soon)
 
 ## Schematic
-| | | | |
-| --- | --- | --- | --- |
-|  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  | | |
-
 
 <table>
   <tr>
@@ -27,8 +20,13 @@ Can be connected with any macropads that uses the same internal components and p
       <img width="2422" height="1635" alt="Phantom Macro Mk1 Pad Schematic" src="https://github.com/user-attachments/assets/08a55f5e-1a61-45fc-8142-8ddf77302a0d" />
     </td>
   </tr>
-  
-  <tr>
+</table>
+
+<details>
+  <summary><b>📂 Click here to expand the gallery</b></summary>
+  <br>
+  <table>
+   <tr>
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/6a650eaf-19fa-4f5e-a136-29d37027a973" /> </td>
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/50ffb7f1-e462-4d90-a869-5ecf599f050f" /> </td>
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/6854e4ab-9e3f-41a5-8388-a00199d262d7" /> </td>
@@ -52,17 +50,6 @@ Can be connected with any macropads that uses the same internal components and p
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/22ea0ee7-0748-47b7-bdce-affc3edec8b7" /> </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## PCB Layout
