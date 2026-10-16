@@ -37,7 +37,6 @@ Can be connected with any macropads that uses the same internal components and p
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/8f77a1b0-455e-4132-b086-265bb81fab26" /> </td>
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/cec35746-5deb-4de2-9814-19c91d263a30" /> </td>
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/ddae2c54-a541-4aee-a792-8205dbe3ea97" /> </td>
-    
   </tr>
   <tr>
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/4ae03a23-b873-4dbd-94a5-02290b49082a" /> </td>
@@ -50,7 +49,8 @@ Can be connected with any macropads that uses the same internal components and p
     <td> <img width="100%" alt="image" src="https://github.com/user-attachments/assets/22ea0ee7-0748-47b7-bdce-affc3edec8b7" /> </td>
   </tr>
 </table>
-
+</tr>
+</details>
 
 ## PCB Layout
 | Front (1st layer)|Back (4th layer) |
