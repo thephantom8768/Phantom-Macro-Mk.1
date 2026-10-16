@@ -19,6 +19,9 @@ Can be connected with any macropads that uses the same internal components and p
 | <img width="300" alt="image" src="https://github.com/user-attachments/assets/6a650eaf-19fa-4f5e-a136-29d37027a973" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/50ffb7f1-e462-4d90-a869-5ecf599f050f" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/6854e4ab-9e3f-41a5-8388-a00199d262d7" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/e1c4911a-849c-429e-9b72-42e09ebf316f" /> |
 | <img width="300" alt="image" src="https://github.com/user-attachments/assets/63a20dec-faeb-4505-b98d-5707d1e42535" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/8f77a1b0-455e-4132-b086-265bb81fab26" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/cec35746-5deb-4de2-9814-19c91d263a30" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/ddae2c54-a541-4aee-a792-8205dbe3ea97" /> |
 | <img width="300" alt="image" src="https://github.com/user-attachments/assets/4ae03a23-b873-4dbd-94a5-02290b49082a" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/e9227788-ab38-4d9f-8e14-a8cb0fd2434b" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/210781b4-460c-4624-b3c6-b0b146620ec6" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/9e8cdcb6-92f6-451e-8762-8174571f008a" /> |
+| <img width="300" alt="image" src="https://github.com/user-attachments/assets/847b8d2d-fa99-44e8-a315-914a89d9cf5a" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/22ea0ee7-0748-47b7-bdce-affc3edec8b7" /> | | |
+
+
 
 
 
