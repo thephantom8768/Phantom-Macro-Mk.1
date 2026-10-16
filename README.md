@@ -1,4 +1,4 @@
-# Phantom-Macro
+<img width="612" height="792" alt="Phantom Macro Mk1 Pad Schematic" src="https://github.com/user-attachments/assets/fbbf2ab2-ae8c-4d77-acac-6b49da981106" /># Phantom-Macro
 
 My first attempt on macropad!. Ofc I have to make it stand out among the 1000s of different macropads. I decided to make it modular in a way where u can daisy chain macropads together to your liking and make a keyboard out of it or anything that suits. It's also my first ever attempt on using hall-effect switches. Can't forget RGB makes everything cooler I think.
 
@@ -22,7 +22,26 @@ Can be connected with any macropads that uses the same internal components and p
 | <img width="300" alt="image" src="https://github.com/user-attachments/assets/847b8d2d-fa99-44e8-a315-914a89d9cf5a" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/22ea0ee7-0748-47b7-bdce-affc3edec8b7" /> | | |
 
 
-
+<table>
+  <tr>
+    <td colspan="4">
+      <img width="2422" height="1635" alt="Phantom Macro Mk1 Pad Schematic" src="https://github.com/user-attachments/assets/08a55f5e-1a61-45fc-8142-8ddf77302a0d" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <td>
+    <td>
+    <td>
+  </tr>
+  <tr>
+    <td><img src="https://placeholder.com" width="100%"></td>
+    <td><img src="https://placeholder.com" width="100%"></td>
+    <td><img src="https://placeholder.com" width="100%"></td>
+    <td><img src="https://placeholder.com" width="100%"></td>
+  </tr>
+</table>
 
 
 
