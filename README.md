@@ -14,8 +14,13 @@ Can be made in any layout as long as all the essential mcu components and the co
 Can be connected with any macropads that uses the same internal components and pogo connectors. (So far there is only 1 macropad, gonna work on more soon)
 
 ## Schematic
+| | | | |
 | --- | --- | --- | --- |
-| 1 | 2 | 3 | 4 |
+| <img width="200" alt="image" src="https://github.com/user-attachments/assets/6a650eaf-19fa-4f5e-a136-29d37027a973" /> | <img width="200" alt="image" src="https://github.com/user-attachments/assets/50ffb7f1-e462-4d90-a869-5ecf599f050f" /> | <img width="200" alt="image" src="https://github.com/user-attachments/assets/6854e4ab-9e3f-41a5-8388-a00199d262d7" /> | <img width="200" alt="image" src="https://github.com/user-attachments/assets/e1c4911a-849c-429e-9b72-42e09ebf316f" /> |
+
+
+
+
 
 
 ## PCB Layout
