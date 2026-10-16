@@ -1,5 +1,3 @@
-<img width="612" height="792" alt="Phantom Macro Mk1 Pad Schematic" src="https://github.com/user-attachments/assets/fbbf2ab2-ae8c-4d77-acac-6b49da981106" /># Phantom-Macro
-
 My first attempt on macropad!. Ofc I have to make it stand out among the 1000s of different macropads. I decided to make it modular in a way where u can daisy chain macropads together to your liking and make a keyboard out of it or anything that suits. It's also my first ever attempt on using hall-effect switches. Can't forget RGB makes everything cooler I think.
 
 ## Features 
