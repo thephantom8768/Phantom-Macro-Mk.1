@@ -3,7 +3,7 @@ My first attempt on macropad!. Ofc I have to make it stand out among the 1000s o
 
 This macropad is powered by RP2040, I'm planning on using other microcontroller for other designs.
 
- **Note:** Requires you to solder on both sides of the PCB
+ **Note:** Requires you to solder on both sides of the PCB & firmware has not been made for it yet
 
 ## Features 
 
