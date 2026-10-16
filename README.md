@@ -22,7 +22,7 @@ Can be connected with any macropads that uses the same internal components and p
 ## PCB Layout
 | Front (1st layer)|Back (4th layer) |
 | ----- | ----- |
-| <img width="456" height="542" alt="image" src="https://github.com/user-attachments/assets/bb50f4f8-9e90-4ff9-8800-4ac2f376bb48" /> | <img width="449" height="545" alt="image" src="https://github.com/user-attachments/assets/0001e097-93a2-4982-91f4-cc1a449be76a" /> |
+|<img width="449" height="545" alt="image" src="https://github.com/user-attachments/assets/0001e097-93a2-4982-91f4-cc1a449be76a" />  | <img width="456" height="542" alt="image" src="https://github.com/user-attachments/assets/bb50f4f8-9e90-4ff9-8800-4ac2f376bb48" /> |
 
 
 ## PCB
