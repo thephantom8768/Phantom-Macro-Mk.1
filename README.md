@@ -70,6 +70,7 @@ Can be connected with any macropads that uses the same internal components and p
 
 ## Case
 
-<img width="539" height="360" alt="image" src="https://github.com/user-attachments/assets/234d79af-4946-4254-b7de-6072f9e856b3" />
+<img width="461" height="318" alt="image" src="https://github.com/user-attachments/assets/8236b78d-d051-4c87-a8d8-18863a6aefc2" />
+
 
 
