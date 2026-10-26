@@ -2,7 +2,7 @@
 
 > A modular, snap-together macropad ecosystem with lateral pogo-pin bus interconnects.
 
-Chain modules side-by-side to expand your desktop workflow—from a compact 3×3 grid to a full modular split keyboard.
+Chain modules side-by-side to expand your desktop workflow—from a compact macro-pad into a full fledge keyboard.
 
 ---
 
