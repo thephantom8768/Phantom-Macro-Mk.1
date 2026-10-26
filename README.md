@@ -1,4 +1,4 @@
-# Phantom Macro Mk.1
+# Phantom Macro Mk.1 Series
 
 > A modular, snap-together macropad ecosystem with lateral pogo-pin bus interconnects.
 
