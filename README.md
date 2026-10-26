@@ -61,7 +61,7 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 
 #### PCB
 | Front | Back |
-| ----- | ----- |
+| ----- | ---- |
 | <img width="459" height="556" alt="image" src="https://github.com/user-attachments/assets/81e3826a-b3f5-4868-a1f1-81d2d13dd24a" /> | <img width="479" height="551" alt="image" src="https://github.com/user-attachments/assets/97973c72-bd7c-47d6-ade0-03e3334ad2ff" /> |
 | <img width="591" height="501" alt="image" src="https://github.com/user-attachments/assets/177ae6ac-f981-46e1-9470-4014034f1d7a" /> | <img width="627" height="469" alt="image" src="https://github.com/user-attachments/assets/d30bfc24-4f4b-456c-b9f2-51a553a2254b" /> |
 
@@ -80,5 +80,8 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   #### schematic
   
   #### PCB
+  | Front | Back |
+  | ----- | ---- |
+  |
 </details>
 
