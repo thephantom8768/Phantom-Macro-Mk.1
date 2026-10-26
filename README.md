@@ -16,6 +16,11 @@ Can be made in any layout as long as all the essential mcu components and the co
 ### Customizable (Layout)
 Can be connected with any macropads that uses the same internal components and pogo connectors. (So far there is only 1 macropad, gonna work on more soon)
 
+
+
+<details>
+  <summary><b>📂 Phantom-Macro-Mk.1 Pad (click here)</b></summary>
+
 ## Schematic
 
 <table>
@@ -25,9 +30,6 @@ Can be connected with any macropads that uses the same internal components and p
     </td>
   </tr>
 </table>
-
-<details>
-  <summary><b>📂 Click here to expand the gallery</b></summary>
 
 ## PCB Layout
 | Front (1st layer)|Back (4th layer) |
