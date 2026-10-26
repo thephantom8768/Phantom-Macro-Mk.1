@@ -18,7 +18,7 @@ Can be connected with any macropads that uses the same internal components and p
 
 
 
-<details>
+## <details>
   <summary><b>📂 Phantom-Macro-Mk.1 Pad (click here)</b></summary>
 
 ## Schematic
@@ -50,5 +50,9 @@ Can be connected with any macropads that uses the same internal components and p
 </details>
 
 
+## <details>
+  <summary><b>Phantom-Macro-Mk.1 MIDI (click here)</b></summary>
 
+  ## schematic
+</details>
 
