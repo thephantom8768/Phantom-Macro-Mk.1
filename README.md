@@ -20,8 +20,10 @@ Can be connected with any macropads that uses the same internal components and p
 
 <details>
   <summary><b>🔢 Phantom-Macro-Mk.1 Pad (click here)</b></summary>
-## Macro Mk.1 Pad
-### Schematic
+  
+  ## Macro Mk.1 Pad
+  
+  ### Schematic
 
 <table>
   <tr>
@@ -52,10 +54,11 @@ Can be connected with any macropads that uses the same internal components and p
 
 <details>
   <summary><b>🎹 Phantom-Macro-Mk.1 MIDI (click here)</b></summary>
-## Macro Mk.1 MIDI
   
-### schematic
-
-### PCB
+  ## Macro Mk.1 MIDI
+  
+  ### schematic
+  
+  ### PCB
 </details>
 
