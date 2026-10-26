@@ -1,5 +1,6 @@
-# Phantom Macro Mk.1
-My first attempt on macropad!. Ofc I have to make it stand out among the 1000s of different macropads. I decided to make it modular in a way where u can daisy chain macropads together to your liking and make a keyboard out of it or anything that suits. It's also my first ever attempt on using hall-effect switches. Can't forget RGB makes everything cooler I think.
+# Phantom Macro Mk.1 Series
+My attempt on a series of macro-pads! 
+Ofc i had to make mine stand out of 1000s of different macro-pads on the market. So I decided to make mine modular in a way where u can chain macro-pads together on the sides with any compatible macro-pad in this series to your liking or even chain them into a keyboard!
 
 This macropad is powered by RP2040, I'm planning on using other microcontroller for other designs.
 
