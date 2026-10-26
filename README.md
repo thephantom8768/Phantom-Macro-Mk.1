@@ -1,21 +1,39 @@
-# Phantom Macro Mk.1 Series
-My attempt on a series of macro-pads! 
-Ofc i had to make mine stand out of 1000s of different macro-pads on the market. So I decided to make mine modular in a way where u can chain macro-pads together on the sides with any compatible macro-pad in this series to your liking or even chain them into a keyboard!
+# Phantom Macro Mk.1
 
-This macropad is powered by RP2040, I'm planning on using other microcontroller for other designs.
+> A modular, snap-together macropad ecosystem with lateral pogo-pin bus interconnects.
 
- **Note:** Requires you to solder on both sides of the PCB & firmware has not been made for it yet
+Chain modules side-by-side to expand your desktop workflow—from a compact 3×3 grid to a full modular split keyboard.
 
-## Features 
+---
 
-### Daisy-chainable
-Use pogo wires or snapping the macropads together using the pogo connectors
+## 📌 Project Status
 
-### Customizable (macropad)
-Can be made in any layout as long as all the essential mcu components and the connectors part are made the same for every macropad.
+- **Hardware:** Series still in-dev
+- **Firmware:** In active development.
+- **Interconnect:** Custom edge-mount 8 pin pogo interface.
 
-### Customizable (Layout)
-Can be connected with any macropads that uses the same internal components and pogo connectors. (So far there is only 1 macropad, gonna work on more soon)
+---
+
+## ⚡ Features
+
+- **Snap & Chain Topology:** Expand your layout horizontally by mating adjacent modules using edge-mounted pogo connectors.
+- **Unified Bus Standard:** Standardized power, ground, and communication rails allow any Mk.1-series compatible module to hot-mate with the system.
+- **Flexible Layouts:** Mix and match different form factors (numpads, macro clusters, encoder dials) without rerunning separate USB cables to your host machine.
+
+## ⚠️ Build Warnings
+
+> **DIY Soldering Required:** This is a fully self-assembled project. It is not a plug-and-play kit and requires intermediate soldering experience.
+
+* **Double-Sided Assembly:** Depending on the macro-pad, components might need to be soldered onto **both the top and bottom** of the PCB.
+
+
+
+
+
+
+
+
+
 
 
 ## *Mk.1 Series*
