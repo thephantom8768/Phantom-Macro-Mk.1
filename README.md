@@ -78,10 +78,16 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   ### Macro Mk.1 MIDI
   
   #### schematic
+
+  ### PCB Layout
+  | Front (1st layer)|Back (4th layer) |
+  | ----- | ----- |
   
   #### PCB
   | Front | Back |
   | ----- | ---- |
-  |
+  | <img width="643" height="335" alt="image" src="https://github.com/user-attachments/assets/96f874e7-35f3-4f54-9ff4-8f17c9220d99" />
+ | <img width="632" height="326" alt="image" src="https://github.com/user-attachments/assets/b2dbd93e-890a-4bb6-b16d-ac40cab74a6b" /> |
+
 </details>
 
