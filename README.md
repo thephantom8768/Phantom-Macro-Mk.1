@@ -79,7 +79,10 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   
   ### Macro Mk.1 MIDI
   
-  #### schematic
+  #### Schematic
+
+  <img width="685" height="440" alt="image" src="https://github.com/user-attachments/assets/aaa09cd9-60df-4803-9f3e-897db87f1701" />
+
 
   ### PCB Layout 
 
