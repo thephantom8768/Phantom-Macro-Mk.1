@@ -54,6 +54,8 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 </table>
 
 #### PCB Layout
+
+4 Layers PCB
 | Front (1st layer)|Back (4th layer) |
 | ----- | ----- |
 |<img width="449" height="545" alt="image" src="https://github.com/user-attachments/assets/0001e097-93a2-4982-91f4-cc1a449be76a" />  | <img width="456" height="542" alt="image" src="https://github.com/user-attachments/assets/bb50f4f8-9e90-4ff9-8800-4ac2f376bb48" /> |
@@ -79,8 +81,10 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   
   #### schematic
 
-  ### PCB Layout
-  | Front (1st layer)|Back (4th layer) |
+  ### PCB Layout 
+
+  2 Layers PCB
+  | Front | Back |
   | ----- | ----- |
   | <img width="740" height="382" alt="image" src="https://github.com/user-attachments/assets/7236c5a6-cef0-444d-bc84-af4231da4f3a" /> | <img width="742" height="385" alt="image" src="https://github.com/user-attachments/assets/c4b7e82e-9536-4c48-bc7e-53beeb5780cb" /> |
 
