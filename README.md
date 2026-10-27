@@ -82,12 +82,17 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   ### PCB Layout
   | Front (1st layer)|Back (4th layer) |
   | ----- | ----- |
+  | <img width="740" height="382" alt="image" src="https://github.com/user-attachments/assets/7236c5a6-cef0-444d-bc84-af4231da4f3a" /> | <img width="742" height="385" alt="image" src="https://github.com/user-attachments/assets/c4b7e82e-9536-4c48-bc7e-53beeb5780cb" /> |
+
+
   
   #### PCB
   | Front | Back |
   | ----- | ---- |
-  | <img width="643" height="335" alt="image" src="https://github.com/user-attachments/assets/96f874e7-35f3-4f54-9ff4-8f17c9220d99" />
- | <img width="632" height="326" alt="image" src="https://github.com/user-attachments/assets/b2dbd93e-890a-4bb6-b16d-ac40cab74a6b" /> |
+  | <img width="643" height="335" alt="image" src="https://github.com/user-attachments/assets/96f874e7-35f3-4f54-9ff4-8f17c9220d99" /> | <img width="632" height="326" alt="image" src="https://github.com/user-attachments/assets/b2dbd93e-890a-4bb6-b16d-ac40cab74a6b" /> |
+  | <img width="633" height="352" alt="image" src="https://github.com/user-attachments/assets/38c821ae-4fca-450c-9def-74186a181c30" /> | <img width="614" height="302" alt="image" src="https://github.com/user-attachments/assets/d1df684d-2aa0-4dae-b32b-02cf04cc243d" /> |
+
+
 
 </details>
 
