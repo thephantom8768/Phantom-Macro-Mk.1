@@ -81,7 +81,7 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   
   #### Schematic
 
-  <img width="674" height="439" alt="image" src="https://github.com/user-attachments/assets/70c464bd-fd4d-4fb9-88dc-1b15c16c584e" />
+  ![Phantom Macro Mk.1 MIDI](Phantom-Macro-Mk1-Series-Pics/Phantom-Macro-Mk.1-MIDI.svg)
 
   ### PCB Layout 
 
